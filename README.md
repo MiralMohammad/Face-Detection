@@ -6,7 +6,7 @@ This is a simple real-time face detection project using Python and OpenCV. It ut
 ## 🧠 How It Works
 
 This project uses OpenCV's built-in Haar cascade classifier:  
-`haarcascade_frontalface_default.xml`, a pre-trained model for frontal face detection.
+`haarcascade_frontalface_default.xml`, a pre-trained model for frontal face detection -you can find it in the attached files-.
 
 
 ---
