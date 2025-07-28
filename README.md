@@ -2,6 +2,8 @@
 
 This is a simple real-time face detection project using Python and OpenCV. It utilizes Haar Cascade Classifiers to detect faces from a webcam feed and draws green rectangles around any detected faces.
 
+![Circuit Diagram](./FaceDetect.jpg)
+
 
 
 
